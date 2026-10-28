@@ -1,8 +1,5 @@
 # Hardware Monitor (CPU-Z Clone)
-Aplikasi pemantau arsitektur perangkat keras dan sistem operasi *real-time*. Proyek ini merupakan pemenuhan tugas akhir semester (UAS) mata kuliah Sistem Komputer.
+A real-time hardware architecture and operating system monitoring application.
 
-**Dikembangkan oleh:** Syaroful Haidar Sudaryono  
-**Institusi:** Politeknik Manufaktur Bandung  
-
-**Cara Penggunaan**  
-Unduh `HardwareMonitor.exe` di halaman **Releases**, lalu jalankan dengan klik kanan -> **Run as administrator** agar sensor suhu tingkat rendah terbaca dengan akurat.
+**How ​​to Use**  
+Download `HardwareMonitor.exe` from the **Releases** page, then run it by right-clicking and selecting **Run as administrator** to ensure accurate readings from low-level temperature sensors.
